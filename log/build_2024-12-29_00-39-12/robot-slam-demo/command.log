@@ -1,0 +1,4 @@
+Invoking command in '/home/leanh/devMachine2/ros2-dev/build/robot-slam-demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/leanh/devMachine2/ros2-dev/build/robot-slam-demo -- -j16 -l16
+Invoked command in '/home/leanh/devMachine2/ros2-dev/build/robot-slam-demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/leanh/devMachine2/ros2-dev/build/robot-slam-demo -- -j16 -l16
+Invoking command in '/home/leanh/devMachine2/ros2-dev/build/robot-slam-demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --install /home/leanh/devMachine2/ros2-dev/build/robot-slam-demo
+Invoked command in '/home/leanh/devMachine2/ros2-dev/build/robot-slam-demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --install /home/leanh/devMachine2/ros2-dev/build/robot-slam-demo
